@@ -24,6 +24,7 @@ Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and u
 - **Payment Integration:** Stripe  
 
 ## Folder Structure  
+ ```
 KhanaKhazana/
 ├── admin/          # Admin panel (vendor dashboard for managing dishes & orders)
 ├── backend/        # Node.js + Express backend code
@@ -32,7 +33,7 @@ KhanaKhazana/
 ├── package.json    # Project dependencies & scripts
 ├── vite.config.js  # Vite configuration (if used)
 └── README.md       # Project documentation
-
+ ```
 ## Getting Started  
 ### Prerequisites  
 Make sure you have installed:  
