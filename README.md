@@ -18,15 +18,20 @@
 - View dish details (description, price, etc.)  
 - Add items to cart and place orders  
 - Multiple payment options: COD, UPI, or Card (Stripe)  
-- Secure **login & authentication** system  
+- Secure **login & authentication** system
+  <img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/bbc15783-871c-435f-bb4a-83f37e20ac93" />
+
 
 ### Vendor / Admin Panel
 - Add new food with description and price  
 - Update or remove existing dishes  
 - View, accept, and update order statuses  
 - Manage overall menu efficiently
+  <img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/f6533e9e-5345-4cdf-b789-aa1c391c3105" />
+  <img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/07c96c9b-50a9-440f-9057-e041c76502fb" />
 
-  ![WhatsApp Image 2025-09-15 at 23 30 55_378f5315](https://github.com/user-attachments/assets/b3f4bb2f-9e11-4459-bab0-93be7d39ed32)
+
+
 <img width="300" height="600" alt="Online Order Payment Process Flowchart" src="https://github.com/user-attachments/assets/3f109be2-9f7a-446f-ad48-fc4916511e46" />
 
 
@@ -102,7 +107,10 @@ test cards that can be used to simulate successful or
 4242 4242 4242 4242 with any
  future expiry date and any CVV will result in a successful payment in test mode. This allows you to
  safely verify the payment integration without real transactions. 
-- Test payments can be made using [Stripe test cards](https://stripe.com/docs/testing)  
+- Test payments can be made using [Stripe test cards](https://stripe.com/docs/testing)
+<img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/54d45fe7-dcf3-4f75-b956-8317da04ffb4" />
+<img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/83eba085-197d-42de-8d3a-cad331901d9c" />
+<img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/050ca2ee-ef42-4b56-8ec9-6408334147f2" />
 
 ## Contributing  
 1. Fork the project  
