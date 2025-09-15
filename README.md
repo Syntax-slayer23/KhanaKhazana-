@@ -1,3 +1,6 @@
+<img width="399" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
+
+
 # KhanaKhazana  
 KhanaKhazana is a **food ordering and delivery web application**.  
 Users can explore menus, order their favorite food, and make secure payments through **Cash on Delivery (COD)**, **UPI**, or **Card payments via Stripe**.  
@@ -15,7 +18,10 @@ Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and u
 - Add new food with description and price  
 - Update or remove existing dishes  
 - View, accept, and update order statuses  
-- Manage overall menu efficiently  
+- Manage overall menu efficiently
+
+  ![WhatsApp Image 2025-09-15 at 23 30 55_378f5315](https://github.com/user-attachments/assets/b3f4bb2f-9e11-4459-bab0-93be7d39ed32)
+
 
 ## Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
@@ -75,7 +81,7 @@ npm run dev
 ```
 
 The app will be available at:  
-`http://localhost:5000`  
+`http://localhost:5173`  
 
 ## Payment Gateway  
 - **Stripe Integration** for card/UPI payments  
