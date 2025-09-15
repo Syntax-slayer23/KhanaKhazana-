@@ -1,5 +1,4 @@
-<img width="300" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
-
+<img width="1500" height="966" alt="image" src="https://github.com/user-attachments/assets/68cc9a9f-c9e9-4d6e-91d3-d093850f4686" />
 
 # KhanaKhazana  
  KhanaKhazana is a **food ordering and delivery web application** that streamlines the meal ordering
