@@ -1,4 +1,4 @@
-<img width="399" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
+<img width="100" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
 
 
 # KhanaKhazana  
@@ -6,7 +6,7 @@ KhanaKhazana is a **food ordering and delivery web application**.
 Users can explore menus, order their favorite food, and make secure payments through **Cash on Delivery (COD)**, **UPI**, or **Card payments via Stripe**.  
 Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and update order statuses seamlessly.  
 
-<img width="1536" height="1024" alt="Food Ordering App Flowchart" src="https://github.com/user-attachments/assets/47ca2475-9621-4fa2-ba83-e0975047fb59" />
+<img width="500" height="800" alt="Food Ordering App Flowchart" src="https://github.com/user-attachments/assets/47ca2475-9621-4fa2-ba83-e0975047fb59" />
 
 
 ## Features  
@@ -24,7 +24,7 @@ Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and u
 - Manage overall menu efficiently
 
   ![WhatsApp Image 2025-09-15 at 23 30 55_378f5315](https://github.com/user-attachments/assets/b3f4bb2f-9e11-4459-bab0-93be7d39ed32)
-<img width="1024" height="1536" alt="Online Order Payment Process Flowchart" src="https://github.com/user-attachments/assets/3f109be2-9f7a-446f-ad48-fc4916511e46" />
+<img width="500" height="800" alt="Online Order Payment Process Flowchart" src="https://github.com/user-attachments/assets/3f109be2-9f7a-446f-ad48-fc4916511e46" />
 
 
 ## Tech Stack  
