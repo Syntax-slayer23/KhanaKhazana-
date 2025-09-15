@@ -2,9 +2,13 @@
 
 
 # KhanaKhazana  
-KhanaKhazana is a **food ordering and delivery web application**.  
-Users can explore menus, order their favorite food, and make secure payments through **Cash on Delivery (COD)**, **UPI**, or **Card payments via Stripe**.  
-Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and update order statuses seamlessly.  
+ KhanaKhazana is a **food ordering and delivery web application** that streamlines the meal ordering
+ process for users and restaurants. It allows customers to explore restaurant menus, add dishes to a cart,
+ and place orders with secure payments via **Cash on Delivery (COD), UPI, or card payments through
+ Stripe integration**. On the vendor side, the platform provides an Admin Panel for restaurants to manage
+ their menu items, handle incoming orders in real time, and update order statuses. The application is built
+ with a Node.js and Express backend, uses MongoDB for data persistence, and integrates Stripe for payment
+ processing – providing a complete end-to-end solution for online food ordering 
 
 <img width="500" height="800" alt="Food Ordering App Flowchart" src="https://github.com/user-attachments/assets/47ca2475-9621-4fa2-ba83-e0975047fb59" />
 
@@ -87,8 +91,18 @@ npm run dev
 The app will be available at:  
 `http://localhost:5173`  
 
-## Payment Gateway  
-- **Stripe Integration** for card/UPI payments  
+## Payment Gateway
+**Stripe Integration:** The app uses Stripe to handle online payments (supporting card transactions
+ and UPI through Stripe’s interface). Ensure your Stripe API keys are correctly set in the 
+.env file to
+ enable this functionality. 
+**Testing Payments:** You can test payment flows in development using Stripe’s provided test card
+ numbers and UPI ids. Stripe offers various 
+test cards that can be used to simulate successful or
+ failed transactions. For example, using the test Visa card number 
+4242 4242 4242 4242 with any
+ future expiry date and any CVV will result in a successful payment in test mode. This allows you to
+ safely verify the payment integration without real transactions. 
 - Test payments can be made using [Stripe test cards](https://stripe.com/docs/testing)  
 
 ## Contributing  
