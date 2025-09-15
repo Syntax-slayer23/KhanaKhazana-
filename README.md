@@ -1,4 +1,4 @@
-<img width="100" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
+<img width="300" height="159" alt="logo" src="https://github.com/user-attachments/assets/bea4080a-6cab-418c-acb9-af506a9dfd11" />
 
 
 # KhanaKhazana  
@@ -24,7 +24,7 @@ Vendors (via the **Admin Panel**) can manage food, handle incoming orders, and u
 - Manage overall menu efficiently
 
   ![WhatsApp Image 2025-09-15 at 23 30 55_378f5315](https://github.com/user-attachments/assets/b3f4bb2f-9e11-4459-bab0-93be7d39ed32)
-<img width="500" height="800" alt="Online Order Payment Process Flowchart" src="https://github.com/user-attachments/assets/3f109be2-9f7a-446f-ad48-fc4916511e46" />
+<img width="300" height="600" alt="Online Order Payment Process Flowchart" src="https://github.com/user-attachments/assets/3f109be2-9f7a-446f-ad48-fc4916511e46" />
 
 
 ## Tech Stack  
