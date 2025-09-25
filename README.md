@@ -49,7 +49,7 @@ KhanaKhazana/
 ├── frontend/       # Static frontend (HTML, CSS, JS)
 ├── public/         # Public assets (images, icons, etc.)
 ├── package.json    # Project dependencies & scripts
-├── vite.config.js  # Vite configuration (if used)
+├── vite.config.js  # Vite configuration 
 └── README.md       # Project documentation
  ```
 ## Getting Started  
